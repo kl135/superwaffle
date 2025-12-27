@@ -1,0 +1,8 @@
+{
+    "cmake.generator": "Ninja",
+    "cmake.configureOnOpen": true,
+    "cmake.debugConfig": {
+        "console": "integratedTerminal"
+    }
+}
+
